@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", {data:[{list:[{slug:"Nuxt.js로-개발-블로그-만들기",title:"Nuxt.js로 개발 블로그 만들기",category:"Project: 블로그"}]}],fetch:{},mutations:void 0});

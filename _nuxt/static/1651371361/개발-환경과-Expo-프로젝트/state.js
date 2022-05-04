@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1651371361",layout:"default",error:a,serverRendered:true,routePath:"\u002F%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD%EA%B3%BC-Expo-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"8f0d41b6"}}}}(null));
